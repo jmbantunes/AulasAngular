@@ -1,1 +1,2 @@
 # AulasAngular
+# By: João Antunes
